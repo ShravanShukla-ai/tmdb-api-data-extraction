@@ -4,7 +4,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-yellow?logo=pandas)
 ![API](https://img.shields.io/badge/API-TMDB-green)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-yellow?logo=pandas)
-![Status](https://img.shields.io/badge/Data Extraction Completed-brightgreen)
+![Status](https://img.shields.io/badge/Data-Extraction-Completed-brightgreen)
 
 ---
 
