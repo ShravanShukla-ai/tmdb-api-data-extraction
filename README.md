@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-yellow?logo=pandas)
 ![API](https://img.shields.io/badge/API-TMDB-green)
-![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+![Status](https://img.shields.io/badge/Data-Extraction-Completed-brightgreen)
 
 ---
 
@@ -52,6 +52,71 @@ The dataset was collected programmatically with:
   - `vote_average`
 
 ---
+## 📸 Sample Output
+
+Example of extracted dataset:
+
+| id | title | vote_average |
+|----|-------|-------------|
+| 278 | The Shawshank Redemption | 8.7 |
+| 238 | The Godfather | 8.6 |
+
+--- 
 
 ## 📁 Project Structure
+
+tmdb-api-data-extraction/
+│
+├── api-to-dataframe.ipynb
+├── tmdb_top_rated_movies.csv
+└── README.md
+
+---
+
+## ▶ How To Run This Project
+
+1. Clone the repository:
+
+git clone https://github.com/ShravanShukla-ai/tmdb-api-data-extraction.git
+
+2. Install required libraries:
+
+pip install pandas requests
+
+3. Replace YOUR_ACCESS_TOKEN with your TMDB API key.
+
+4. Run the notebook:
+
+api-to-dataframe.ipynb
+---
+
+## 🧠 Skills Demonstrated
+
+- API Integration
+- Pagination Handling
+- Rate Limit Management
+- Error Handling
+- Data Cleaning
+- Dataset Publishing (Kaggle)
+- GitHub Project Documentation
+---
+
+## 📌 Kaggle Dataset
+
+Dataset available on Kaggle:
+
+👉 https://www.kaggle.com/datasets/shravanshukla/tmdb-top-rated-movies-dataset-api-extracted
+
+---
+
+## 👨‍💻 Author
+
+**Shravan Shukla**  
+BSc Computer Science Student  
+Aspiring Data Analyst  
+
+---
+
+## ⭐ If you found this useful, consider giving it a star!
+
 
