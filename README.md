@@ -3,7 +3,8 @@
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-yellow?logo=pandas)
 ![API](https://img.shields.io/badge/API-TMDB-green)
-![Status](https://img.shields.io/badge/Data-Extraction-Completed-brightgreen)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-yellow?logo=pandas)
+![Status](https://img.shields.io/badge/Data Extraction Completed-brightgreen)
 
 ---
 
