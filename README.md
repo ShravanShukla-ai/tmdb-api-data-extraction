@@ -1,46 +1,57 @@
-# TMDB API Data Extraction Project
+# 🎬 TMDB Top Rated Movies - API Data Extraction Project
 
-## Project Overview
-This project extracts top-rated movies data from The Movie Database (TMDB) API using Python.
-
-A total of 10,000 movie records were retrieved using pagination (500 page limit).
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-yellow?logo=pandas)
+![API](https://img.shields.io/badge/API-TMDB-green)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 
 ---
 
-## Features
-- API authentication using Bearer token
-- Pagination handling
-- Rate limit handling
+## 📌 Project Overview
+
+This project extracts **10,000 top-rated movies** from the **TMDB (The Movie Database) API** using Python.
+
+The dataset was collected programmatically with:
+- API authentication
+- Pagination handling (500 page limit)
+- Rate limiting management
 - HTTP error handling (400 & connection reset)
-- Exported dataset to CSV
+- Clean export to CSV format
 
 ---
 
-## Tools Used
-- Python
-- Pandas
-- Requests
-- TMDB API
+## 🚀 Key Features
+
+- ✅ API Authentication using Bearer Token
+- ✅ Dynamic Pagination Handling
+- ✅ Rate Limit Protection
+- ✅ Error Handling & Retry Logic
+- ✅ Data Export to CSV
+- ✅ Clean & Structured Dataset
 
 ---
 
-## Dataset
-The dataset contains the following columns:
+## 🛠 Tech Stack
 
-- id
-- title
-- overview
-- release_date
-- vote_count
-- vote_average
+- **Python**
+- **Pandas**
+- **Requests**
+- **TMDB API**
 
 ---
 
-## Output File
-tmdb_top_rated_movies.csv
+## 📊 Dataset Information
+
+- 📦 Total Records: **10,000**
+- 📁 Columns:
+  - `id`
+  - `title`
+  - `overview`
+  - `release_date`
+  - `vote_count`
+  - `vote_average`
 
 ---
 
-## Author
-Shravan Shukla.
-Aspiring Data Analyst
+## 📁 Project Structure
+
